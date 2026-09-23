@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Prompt Engineer
 
-**ai-prompt-engineer** is part of the Zion Tech Group app network (630+ apps).
+AI prompt engineering toolkit with optimization and testing.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [LLM, Prompts & RAG](https://github.com/Zion-support/zion-network/blob/main/network/llm-prompts-rag.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-tools](https://github.com/Zion-support/zion-tools)
+- Related: [prompt-forge](https://github.com/Zion-support/prompt-forge) · [zion-prompt-forge](https://github.com/Zion-support/zion-prompt-forge) · [zion-prompt-vault](https://github.com/Zion-support/zion-prompt-vault) · [zion-prompt-ab-playground](https://github.com/Zion-support/zion-prompt-ab-playground) · [zion-ai-prompt-router](https://github.com/Zion-support/zion-ai-prompt-router)
 
-## Related apps
-- [prompt-forge](https://github.com/Zion-support/prompt-forge) — Prompt builder and scorer
-- [zion-prompt-forge](https://github.com/Zion-support/zion-prompt-forge) — Curated prompt library
-- [zion-prompt-ab-playground](https://github.com/Zion-support/zion-prompt-ab-playground) — Prompt A/B comparison
-- [prompt-shield](https://github.com/Zion-support/prompt-shield) — Prompt-injection defense
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
